@@ -5,7 +5,7 @@ It's geared towards the development of systems for automated evidence collection
 
 The WebQuery dataset is composed of 390 claims extracted from news articles. Each claim is manually annotated with a search query used to find verifying evidence in the web, as well as a target URL.
 
-Data Format
+### Data Format
 Each sample contains 7 fields:
 - claim_id: The ID of the claim. 
 - headline: Headline of the article from where the claim was extracted.
